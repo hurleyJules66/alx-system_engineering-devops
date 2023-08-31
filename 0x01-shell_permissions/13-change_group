@@ -1,2 +1,2 @@
-13-change_group
+#!/bin/bash
 sudo chown :school hello
